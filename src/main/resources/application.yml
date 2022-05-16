@@ -1,0 +1,21 @@
+spring:
+  profiles:
+    active: development
+  data:
+    mongodb:
+      uri: mongodb://127.0.0.1:27017
+      database: correios
+  application:
+    name: correios
+server:
+  port: 8081
+
+credenciais-correios:
+  usuario: 'sigep'
+  senha: 'n5f9t8'
+  idServico: 124849
+  tipoDestinatario: 'C'
+  identificador: 34028316000103
+  qtdEtiquetas: 300000
+
+
