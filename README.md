@@ -1,2 +1,2 @@
 # correios
-Integração com o SIGEP Webservice dos Correios
+Integração SOAP com o SIGEP Webservice dos Correios
